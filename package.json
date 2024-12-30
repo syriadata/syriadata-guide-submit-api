@@ -1,0 +1,22 @@
+{
+  "name": "syriadata-guide-submit-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "google-auth-library": "^9.15.0",
+    "google-spreadsheet": "^4.1.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@vercel/node": "^5.0.0",
+    "typescript": "^5.7.2",
+    "vercel": "^39.2.2"
+  }
+}
